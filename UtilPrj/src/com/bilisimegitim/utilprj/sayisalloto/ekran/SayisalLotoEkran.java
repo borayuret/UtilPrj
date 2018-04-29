@@ -93,7 +93,7 @@ public class SayisalLotoEkran extends JFrame {
 		tf6.setBounds(315, 106, 43, 20);
 		contentPane.add(tf6);
 		
-		JButton btnevir = new JButton("ÇEVİR");
+		JButton btnevir = new JButton("ÇEVİRT");
 		btnevir.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
